@@ -1,0 +1,88 @@
+track_name,artist_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_.,valence_.,energy_.,acousticness_.,instrumentalness_.,liveness_.,speechiness_.,artist1,artist2,artist3,streams_m,in_deezer_playlists_m,in_shazam_charts_m,outlier,key_m,mode_m,artist4,ts
+Cruel Summer,Taylor Swift,1,2019,8,23,7858,100,800840817,116,207,125,12,548,170,A,Major,55,58,72,11,0,11,15,Taylor Swift,"","",800.840817,125,548,0,A,Major,Taylor Swift,1
+I Can See You (Taylor���s Version) (From The ,Taylor Swift,1,2023,7,7,516,38,52135248,73,119,42,1,150,123,F#,Major,69,82,76,6,0,6,3,Taylor Swift,"","",52.135248,42,150,0,F#,Major,Taylor Swift,1
+Anti-Hero,Taylor Swift,1,2022,10,21,9082,56,999748277,242,142,165,9,310,97,E,Major,64,51,63,12,0,19,5,Taylor Swift,"","",999.748277,165,310,0,E,Major,Taylor Swift,1
+Blank Space,Taylor Swift,1,2014,1,1,11434,53,1355959075,154,123,410,2,81,96,F,Major,75,57,68,9,0,13,6,Taylor Swift,"","",1355.959075,410,81,0,F,Major,Taylor Swift,1
+Style,Taylor Swift,1,2014,1,1,7830,42,786181836,94,111,151,4,82,95,D,Major,60,48,79,0,0,12,4,Taylor Swift,"","",786.181836,151,82,0,D,Major,Taylor Swift,1
+cardigan,Taylor Swift,1,2020,7,24,7923,29,812019557,106,112,142,4,215,130,"",Minor,61,53,58,55,0,27,4,Taylor Swift,"","",812.019557,142,215,3,Eb,Major,Taylor Swift,1
+Karma,Taylor Swift,1,2022,10,21,3818,23,404562836,37,55,32,0,272,90,G#,Major,64,10,62,7,0,48,7,Taylor Swift,"","",404.562836,32,272,0,G#,Major,Taylor Swift,1
+Enchanted (Taylor's Version),Taylor Swift,1,2023,7,7,148,24,39578178,32,93,8,2,5,82,G#,Major,51,22,53,1,0,15,3,Taylor Swift,"","",39.578178,8,5,0,G#,Major,Taylor Swift,1
+Back To December (Taylor's Version),Taylor Swift,1,2023,7,7,139,17,39228929,16,72,5,0,8,142,D,Major,50,20,64,1,0,12,3,Taylor Swift,"","",39.228929,5,8,0,D,Major,Taylor Swift,1
+Don���t Bl,Taylor Swift,1,2017,11,8,4875,23,685032533,19,45,0,0,10,136,A,Minor,62,19,53,11,0,6,4,Taylor Swift,"","",685.032533,0,10,0,A,Minor,Taylor Swift,1
+Lover,Taylor Swift,1,2012,1,1,8448,23,882831184,160,110,163,0,5,206,G,Major,43,50,55,50,0,15,10,Taylor Swift,"","",882.831184,163,5,0,G,Major,Taylor Swift,1
+Mine (Taylor's Version),Taylor Swift,1,2023,7,7,99,15,36912123,21,52,6,1,0,121,G,Major,65,49,78,0,0,17,4,Taylor Swift,"","",36.912123,6,0,0,G,Major,Taylor Swift,1
+august,Taylor Swift,1,2020,7,24,7324,22,607123776,25,81,61,1,44,90,F,Major,51,42,61,53,0,9,3,Taylor Swift,"","",607.123776,61,44,0,F,Major,Taylor Swift,1
+Enchanted,Taylor Swift,1,2010,1,1,4564,16,621660989,24,101,113,0,40,164,G#,Major,45,24,62,8,0,16,3,Taylor Swift,"","",621.660989,113,40,0,G#,Major,Taylor Swift,1
+Shake It Off,Taylor Swift,1,2014,1,1,21335,13,1113838873,328,70,"1,378",9,20,160,G,Major,65,95,80,5,0,41,16,Taylor Swift,"","",1113.838873,1378,20,0,G,Major,Taylor Swift,1
+You Belong With Me (Taylor���s Ve,Taylor Swift,1,2021,4,9,2619,12,350381515,47,90,1,0,7,130,F#,Major,63,49,73,5,0,9,3,Taylor Swift,"","",350.381515,1,7,0,F#,Major,Taylor Swift,1
+Better Than Revenge (Taylor's Version),Taylor Swift,1,2023,7,7,86,11,30343206,3,33,3,0,1,146,B,Minor,50,67,89,0,0,19,8,Taylor Swift,"","",30.343206,3,1,0,B,Minor,Taylor Swift,1
+Hits Different,Taylor Swift,1,2023,5,26,547,0,68616963,15,15,6,0,0,106,F,Major,67,24,78,15,0,30,4,Taylor Swift,"","",68.616963,6,0,0,F,Major,Taylor Swift,1
+Karma (feat. Ice Spice),"Taylor Swift, Ice Spice",2,2023,5,26,588,0,46142772,23,21,31,0,0,90,G#,Major,62,7,62,6,0,58,6,Taylor Swift, Ice Spice,"",46.142772,31,0,0,G#,Major,Taylor Swift,1
+Snow On The Beach (feat. More Lana Del Rey),"Lana Del Rey, Taylor Swift",2,2023,5,26,359,2,60350538,1,0,9,0,0,110,F#,Minor,66,32,40,81,0,11,3,Lana Del Rey, Taylor Swift,"",60.350538,9,0,0,F#,Minor,Taylor Swift,1
+Lavender Haze,Taylor Swift,1,2022,10,21,3763,8,488386797,51,43,38,10,1,97,A#,Major,73,10,44,26,0,16,8,Taylor Swift,"","",488.386797,38,1,0,A#,Major,Taylor Swift,1
+All Of The Girls You Loved Before,Taylor Swift,1,2019,8,23,1282,6,185240616,26,6,19,0,5,96,D,Major,72,40,47,71,0,13,4,Taylor Swift,"","",185.240616,19,5,0,D,Major,Taylor Swift,1
+Midnight Rain,Taylor Swift,1,2022,10,21,2612,4,433356509,19,29,21,0,0,140,"",Major,64,18,37,72,0,12,7,Taylor Swift,"","",433.356509,21,0,4,C,Major,Taylor Swift,1
+"You're On Your Own, Kid",Taylor Swift,1,2022,10,21,2537,2,348647203,8,18,20,0,1,120,D,Major,69,40,39,41,0,13,6,Taylor Swift,"","",348.647203,20,1,0,D,Major,Taylor Swift,1
+Snow On The Beach (feat. Lana Del Rey),"Taylor Swift, Lana Del Rey",2,2022,10,21,2415,0,323437194,33,57,30,0,11,110,A,Major,66,19,32,69,0,12,4,Taylor Swift, Lana Del Rey,"",323.437194,30,11,0,A,Major,Taylor Swift,1
+Maroon,Taylor Swift,1,2022,10,21,2304,0,317726339,12,16,14,0,0,108,G,Major,64,4,40,6,0,10,6,Taylor Swift,"","",317.726339,14,0,0,G,Major,Taylor Swift,1
+Bejeweled,Taylor Swift,1,2022,10,21,2699,0,328207708,39,35,22,2,0,164,G,Major,70,39,56,6,0,9,7,Taylor Swift,"","",328.207708,22,0,0,G,Major,Taylor Swift,1
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,1,2021,11,12,4635,5,583687007,50,49,30,1,2,93,"",Major,63,21,52,28,0,9,3,Taylor Swift,"","",583.687007,30,2,4,C,Major,Taylor Swift,1
+This Love (Taylor���s Ve,Taylor Swift,1,2022,5,6,1492,0,132171975,26,2,15,0,2,144,E,Major,47,7,50,32,0,7,4,Taylor Swift,"","",132.171975,15,2,0,E,Major,Taylor Swift,1
+Vigilante Shit,Taylor Swift,1,2022,10,21,1948,0,253650850,12,9,16,0,0,80,E,Minor,80,16,28,17,0,12,39,Taylor Swift,"","",253.65085,16,0,0,E,Minor,Taylor Swift,1
+Question...?,Taylor Swift,1,2022,10,21,1608,0,223064273,10,3,12,0,0,109,G,Major,75,11,50,20,0,30,17,Taylor Swift,"","",223.064273,12,0,0,G,Major,Taylor Swift,1
+Mastermind,Taylor Swift,1,2022,10,21,1936,0,218320587,7,5,13,0,0,126,E,Major,66,12,35,55,0,9,14,Taylor Swift,"","",218.320587,13,0,0,E,Major,Taylor Swift,1
+Labyrinth,Taylor Swift,1,2022,10,21,1597,0,187339835,6,3,15,0,0,110,"",Major,48,15,31,80,22,12,4,Taylor Swift,"","",187.339835,15,0,4,C,Major,Taylor Swift,1
+Sweet Nothing,Taylor Swift,1,2022,10,21,1747,0,186104310,9,6,13,0,2,177,"",Major,34,39,16,97,0,12,5,Taylor Swift,"","",186.10431,13,2,4,C,Major,Taylor Swift,1
+"Would've, Could've, Should've",Taylor Swift,1,2022,10,21,1715,0,177503916,4,5,8,0,0,158,G,Major,48,55,84,43,0,15,12,Taylor Swift,"","",177.503916,8,0,0,G,Major,Taylor Swift,1
+The Great War,Taylor Swift,1,2022,10,21,1274,0,181382590,1,6,11,0,0,96,F,Major,57,55,74,22,0,8,4,Taylor Swift,"","",181.38259,11,0,0,F,Major,Taylor Swift,1
+Bigger Than The Whole Sky,Taylor Swift,1,2022,10,21,1180,0,121871870,4,0,8,0,0,166,F#,Major,42,7,24,83,1,12,6,Taylor Swift,"","",121.87187,8,0,0,F#,Major,Taylor Swift,1
+MORE,j-hope,1,2022,7,1,565,0,155795783,6,52,11,0,0,97,D,Major,78,31,72,1,0,11,4,j-hope,"","",155.795783,11,0,0,D,Major,j-hope,0
+Me and Your Mama,Childish Gambino,1,2016,11,10,8775,0,445590495,33,60,107,1,0,118,F,Major,56,25,45,1,3,7,3,Childish Gambino,"","",445.590495,107,0,0,F,Major,Childish Gambino,0
+Mistletoe,Justin Bieber,1,2011,1,1,9577,0,629173063,195,111,310,0,0,162,F#,Minor,67,88,54,51,0,9,4,Justin Bieber,"","",629.173063,310,0,0,F#,Minor,Justin Bieber,0
+Primera Cita,Carin Leon,1,2022,4,20,266,27,77309611,6,40,6,6,202,158,A#,Major,54,50,40,61,0,10,6,Carin Leon,"","",77.309611,6,202,0,A#,Major,Carin Leon,0
+Hummingbird (Metro Boomin & James Blake),"James Blake, Metro Boomin",2,2023,6,2,277,1,39666245,1,20,5,0,1,81,F#,Major,59,26,60,46,1,25,13,James Blake, Metro Boomin,"",39.666245,5,1,0,F#,Major,James Blake,0
+Merry Christmas Everyone,Shakin' Stevens,1,1984,1,1,1087,0,351636786,90,35,5,0,0,101,C#,Minor,72,91,87,14,0,13,3,Shakin' Stevens,"","",351.636786,5,0,0,C#,Minor,Shakin' Stevens,0
+Born With A Beer In My Hand,Morgan Wallen,1,2023,3,3,203,0,34450974,5,9,0,0,0,148,"",Major,53,61,81,5,0,36,4,Morgan Wallen,"","",34.450974,0,0,0,"",Major,Morgan Wallen,0
+Boyfriends,Harry Styles,1,2022,5,20,1517,0,137070925,26,2,30,0,0,118,"",Major,42,32,20,94,0,11,4,Harry Styles,"","",137.070925,30,0,0,"",Major,Harry Styles,0
+Thinkin��� B,Morgan Wallen,1,2023,3,3,604,6,125917280,22,101,0,0,66,140,D#,Minor,66,43,76,49,0,12,3,Morgan Wallen,"","",125.91728,0,66,0,D#,Minor,Morgan Wallen,0
+Shorty Party,"Cartel De Santa, La Kelly",2,2023,3,4,432,12,162887075,8,14,12,2,33,96,D,Major,93,47,47,33,0,10,36,Cartel De Santa, La Kelly,"",162.887075,12,33,0,D,Major,Cartel De Santa,0
+JGL,"Luis R Conriquez, La Adictiva",2,2022,2,18,782,9,323455692,15,33,6,1,0,113,G#,Major,70,97,59,55,0,27,12,Luis R Conriquez, La Adictiva,"",323.455692,6,0,0,G#,Major,Luis R Conriquez,0
+California Love - Original Version (Explicit),"Dr. Dre, 2Pac, Roger",3,1995,12,28,18773,0,579395142,128,17,"1,663",0,0,92,G,Major,77,76,84,3,0,38,4,Dr. Dre, 2Pac, Roger,579.395142,1663,0,0,G,Major,Dr. Dre,0
+Without Me,Eminem,1,2002,1,1,21081,43,1687664027,98,76,"3,889",5,0,112,G,Major,92,67,66,0,0,36,9,Eminem,"","",1687.664027,3889,0,0,G,Major,Eminem,0
+Matilda,Harry Styles,1,2022,5,20,3218,3,366214458,29,10,79,0,0,114,D,Major,51,39,29,90,0,10,4,Harry Styles,"","",366.214458,79,0,0,D,Major,Harry Styles,0
+Todo De Ti,Rauw Alejandro,1,2020,11,2,11975,8,1168642797,188,75,268,6,16,128,D#,Minor,81,57,63,40,1,10,4,Rauw Alejandro,"","",1168.642797,268,16,0,D#,Minor,Rauw Alejandro,0
+���������������������,Fujii Kaze,1,2020,5,20,685,14,403097450,24,94,9,0,23,158,F#,Minor,60,52,76,17,0,19,5,Fujii Kaze,"","",403.09745,9,23,0,F#,Minor,Fujii Kaze,0
+Moscow Mule,Bad Bunny,1,2022,5,6,4572,33,909001996,74,113,85,9,2,100,F,Minor,80,29,67,29,0,12,3,Bad Bunny,"","",909.001996,85,2,0,F,Minor,Bad Bunny,0
+Gasoline,The Weeknd,1,2022,1,7,2297,0,116903579,11,29,14,0,0,123,F#,Minor,74,35,73,0,0,21,5,The Weeknd,"","",116.903579,14,0,0,F#,Minor,The Weeknd,0
+Siempre Pendientes,"Peso Pluma, Luis R Conriquez",2,2022,8,15,685,5,295152154,15,79,4,2,0,136,"",Major,77,71,75,33,1,13,4,Peso Pluma, Luis R Conriquez,"",295.152154,4,0,0,"",Major,Peso Pluma,0
+I AM,IVE,1,2023,4,10,366,15,123132751,16,102,7,0,55,122,E,Minor,68,38,88,1,0,8,5,IVE,"","",123.132751,7,55,0,E,Minor,IVE,0
+Bam Bam (feat. Ed Sheeran),"Camila Cabello, Ed Sheeran",2,2022,3,4,6111,4,756907987,185,40,492,9,35,95,G#,Major,76,96,70,18,0,33,4,Camila Cabello, Ed Sheeran,"",756.907987,492,35,0,G#,Major,Camila Cabello,0
+Private Landing (feat. Justin Bieber & Future),"Don Toliver, Future, Justin Bieber",3,2023,2,23,1190,0,105062254,29,3,18,0,19,137,C#,Minor,84,44,67,8,0,11,6,Don Toliver, Future, Justin Bieber,105.062254,18,19,0,C#,Minor,Don Toliver,0
+My Mind & Me,Selena Gomez,1,2022,11,3,953,0,91473363,61,13,37,1,0,144,A,Major,60,24,39,57,0,8,3,Selena Gomez,"","",91.473363,37,0,0,A,Major,Selena Gomez,0
+positions,Ariana Grande,1,2020,10,23,8207,0,1252563873,175,55,95,0,2,144,"",Major,73,66,80,44,0,9,12,Ariana Grande,"","",1252.563873,95,2,0,"",Major,Ariana Grande,0
+As It Was,Harry Styles,1,2022,3,31,23575,130,2513188493,403,198,863,46,"",174,F#,Minor,52,66,73,34,0,31,6,Harry Styles,"","",2513.188493,863,,0,F#,Minor,Harry Styles,0
+Ch y la Pizza,"Fuerza Regida, Natanael Cano",2,2022,12,1,536,10,288101651,10,72,8,3,14,149,G#,Major,66,85,60,40,0,14,13,Fuerza Regida, Natanael Cano,"",288.101651,8,14,0,G#,Major,Fuerza Regida,0
+Dandelions,Ruth B.,1,2017,4,28,3423,21,1116995633,41,100,59,1,32,117,C#,Major,61,45,69,2,0,9,3,Ruth B.,"","",1116.995633,59,32,0,C#,Major,Ruth B.,0
+What Else Can I Do?,"Stephanie Beatriz, Diane Guerrero",2,2021,11,19,802,0,154797871,13,27,8,0,0,120,E,Major,72,54,71,26,0,10,4,Stephanie Beatriz, Diane Guerrero,"",154.797871,8,0,0,E,Major,Stephanie Beatriz,0
+2 Be Loved (Am I Ready),Lizzo,1,2022,7,14,3682,6,247689123,41,0,158,2,68,156,G,Major,72,92,77,9,0,8,11,Lizzo,"","",247.689123,158,68,0,G,Major,Lizzo,0
+My Only Wish (This Year),Britney Spears,1,2000,11,7,6952,0,261116938,115,53,286,0,0,147,"",Major,67,69,72,17,0,19,3,Britney Spears,"","",261.116938,286,0,0,"",Major,Britney Spears,0
+The Motto,"TiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½sto, Ava",2,2021,11,4,9151,6,656013912,240,107,268,0,5,118,G,Minor,75,46,76,3,0,9,4,TiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½sto, Ava,"",656.013912,268,5,0,G,Minor,TiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½sto,0
+���abcdefu,Gayle,1,2021,8,13,7215,0,1007612429,170,12,575,18,"",122,E,Major,70,42,54,30,0,37,5,Gayle,"","",1007.612429,575,,0,E,Major,Gayle,0
+Never Felt So Alone,Labrinth,1,2023,4,7,1730,3,117747907,46,5,51,0,20,98,F,Major,44,36,41,50,0,38,5,Labrinth,"","",117.747907,51,20,0,F,Major,Labrinth,0
+"Rauw Alejandro: Bzrp Music Sessions, Vol. 56","Rauw Alejandro, Bizarrap",2,2023,6,21,871,32,66902503,25,59,32,5,88,128,B,Major,78,59,65,10,0,26,5,Rauw Alejandro, Bizarrap,"",66.902503,32,88,0,B,Major,Rauw Alejandro,0
+Gangsta's Paradise,"Coolio, L.V.",2,1995,7,11,10624,17,1357608774,21,0,386,0,"",80,G#,Major,63,40,61,9,0,56,6,Coolio, L.V.,"",1357.608774,386,,0,G#,Major,Coolio,0
+Area Codes,"Kaliii, Kaliii",2,2023,3,17,1197,13,113509496,44,34,25,1,171,155,C#,Major,82,51,39,2,0,9,49,Kaliii, Kaliii,"",113.509496,25,171,0,C#,Major,Kaliii,0
+ALIEN SUPERSTAR,BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿,1,2022,7,29,2688,0,171788484,39,47,36,0,0,122,A#,Minor,55,46,64,0,0,17,10,BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿,"","",171.788484,36,0,0,A#,Minor,BeyoncÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿,0
+CAIRO,"Karol G, Ovy On The Drums",2,2022,11,13,2418,26,294352144,52,66,55,1,16,115,F,Minor,95,43,69,47,0,9,31,Karol G, Ovy On The Drums,"",294.352144,55,16,0,F,Minor,Karol G,0
+First Class,Jack Harlow,1,2022,4,8,8737,0,694525298,163,32,137,15,12,107,G#,Major,91,32,56,3,0,11,10,Jack Harlow,"","",694.525298,137,12,0,G#,Major,Jack Harlow,0
+Everything I Love,Morgan Wallen,1,2023,1,31,579,0,95623148,11,54,0,0,103,104,G#,Major,56,72,85,0,0,15,3,Morgan Wallen,"","",95.623148,0,103,0,G#,Major,Morgan Wallen,0
+Cupid ��� Twin Ver. (FIFTY FIFTY) ��� Spe,sped up 8282,1,1997,1,1,472,2,103762518,0,0,6,0,0,144,F,Major,74,75,73,42,0,9,4,sped up 8282,"","",103.762518,6,0,0,F,Major,sped up 8282,0
+Arcade,Duncan Laurence,1,2019,3,7,6646,0,991336132,107,47,584,1,"",72,A,Minor,45,27,33,82,0,14,4,Duncan Laurence,"","",991.336132,584,,0,A,Minor,Duncan Laurence,0
+Party,"Bad Bunny, Rauw Alejandro",2,2022,5,6,3185,4,614555082,38,64,37,3,36,97,A,Major,83,47,80,2,0,24,9,Bad Bunny, Rauw Alejandro,"",614.555082,37,36,0,A,Major,Bad Bunny,0
+Rumble,"Skrillex, Flowdan, Fred again..",3,2022,1,17,2849,0,78489819,39,45,27,0,1,140,C#,Minor,81,6,84,5,23,6,6,Skrillex, Flowdan, Fred again..,78.489819,27,1,0,C#,Minor,Skrillex,0
+CORAZ��N VA,Maria Becerra,1,2023,6,22,370,20,43857627,12,16,18,4,93,98,C#,Major,68,40,79,33,0,30,6,Maria Becerra,"","",43.857627,18,93,0,C#,Major,Maria Becerra,0
+FEARLESS,LE SSERAFIM,1,2022,5,2,629,0,229497852,18,75,9,0,0,104,G,Major,86,43,62,5,0,13,14,LE SSERAFIM,"","",229.497852,9,0,0,G,Major,LE SSERAFIM,0
+Softcore,The Neighbourhood,1,2018,3,9,3947,12,599770206,33,102,93,0,30,94,D,Major,57,36,58,5,0,15,3,The Neighbourhood,"","",599.770206,93,30,0,D,Major,The Neighbourhood,0
+Fin de Semana,"Oscar Maydon, Junior H",2,2023,1,13,592,14,307370144,11,84,6,1,30,98,"",Major,70,37,54,6,0,9,8,Oscar Maydon, Junior H,"",307.370144,6,30,0,"",Major,Oscar Maydon,0
+Love Nwantiti - Remix,"Ckay, AX'EL, Dj Yo!",3,2019,8,30,2696,0,540539717,42,2,57,0,"",120,G#,Major,58,44,60,44,9,5,6,Ckay, AX'EL, Dj Yo!,540.539717,57,,0,G#,Major,Ckay,0
+Las Morras,"BLESSD, Peso Pluma",2,2023,4,4,291,8,127026613,8,78,4,1,1,133,A,Minor,78,90,84,31,0,7,4,BLESSD, Peso Pluma,"",127.026613,4,1,0,A,Minor,BLESSD,0
