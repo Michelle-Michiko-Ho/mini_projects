@@ -1,0 +1,1 @@
+This folder sparks the journey on Monetary Policy. Let's see what the Classical School and Keyesian School have to offer!
